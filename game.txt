@@ -14,3 +14,4 @@ http://blog.csdn.net/vroymond/article/details/53422744
 8、js与c++的交互
 https://www.cnblogs.com/kenkofox/p/3910462.htmlhttp://blog.csdn.net/langzi7758521/article/details/52212888http://www.cocoachina.com/bbs/read.php?tid-310071.html
 9、不推荐ehcache 使用redis缓存
+http://blog.csdn.net/qyvlik/article/details/73826141
