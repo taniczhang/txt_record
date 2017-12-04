@@ -17,3 +17,7 @@ https://www.cnblogs.com/kenkofox/p/3910462.htmlhttp://blog.csdn.net/langzi775852
 http://blog.csdn.net/qyvlik/article/details/73826141
 10、翻牌动画
 http://blog.csdn.net/linchaolong/article/details/42149805
+11、发牌相关
+http://blog.csdn.net/wojiushi3344/article/details/7522245
+12、斗地主
+http://blog.csdn.net/wojiushi3344
