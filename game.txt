@@ -36,3 +36,5 @@ https://github.com/emilb/texas-holdem-botgame
 https://github.com/gummy52/Hold-em-Home-Game
 14、游戏服务器的特点
 https://www.zhihu.com/question/23508968
+15、五子棋带服务器
+https://www.cnblogs.com/wchrt/p/4574726.html
