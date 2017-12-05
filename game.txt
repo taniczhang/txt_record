@@ -30,3 +30,7 @@ http://blog.csdn.net/linchaolong/article/details/42149805
 http://blog.csdn.net/wojiushi3344/article/details/7522245
 12、斗地主
 http://blog.csdn.net/wojiushi3344
+13、德州扑克
+https://github.com/jacobhyphenated/PokerServer
+https://github.com/emilb/texas-holdem-botgame
+https://github.com/gummy52/Hold-em-Home-Game
