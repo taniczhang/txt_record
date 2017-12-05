@@ -34,3 +34,5 @@ http://blog.csdn.net/wojiushi3344
 https://github.com/jacobhyphenated/PokerServer
 https://github.com/emilb/texas-holdem-botgame
 https://github.com/gummy52/Hold-em-Home-Game
+14、游戏服务器的特点
+https://www.zhihu.com/question/23508968
