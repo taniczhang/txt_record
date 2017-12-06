@@ -38,3 +38,5 @@ https://github.com/gummy52/Hold-em-Home-Game
 https://www.zhihu.com/question/23508968
 15、五子棋带服务器
 https://www.cnblogs.com/wchrt/p/4574726.html
+16、翻牌效果
+http://blog.csdn.net/sharing_li/article/details/44980493
